@@ -1,0 +1,12 @@
+h1{
+    width: 225px;
+    height: 60px; 
+    top: 927px;
+    left: 576px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 span{
+    color: orange
+}
+

@@ -1,0 +1,45 @@
+.backgroundCard{
+    width: 367px;
+    height: 399px;
+    top: 1895px;
+    left: 537px;
+    border-radius: 15px;
+    background-color: mintcream;
+}
+
+.backgroundCard img{
+    width: 80px;
+    height: 80px;
+    top: 1942px;
+    left: 294px;
+}
+
+.backgroundCard h3{
+    width: 217px;
+    height: 30px;
+    top: 2065px;
+    left: 226px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    background: #170550;
+    color: #FFFFFF;
+}
+
+.backgroundCard h3{
+    width: 305px;
+    height: 151px;
+    top: 2128px;
+    left: 182px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: center;
+    background: #170550;
+    color: #FFFFFF;
+}
